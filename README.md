@@ -2,7 +2,7 @@
 My name is Ruan Cortez and I'm from Brazil. 🇧🇷
 I am a student of Systems Analysis and Development and a student of the Digital Innovation One Platform. 💻
 I have focused my studies on FrontEnd Development and Programming Logic.
-
+#### "Always learn, because we can always be better than yesterday"
 * HTML5✔️
 * CSS3    ✔️
 * JavaScript ✔️
@@ -11,6 +11,7 @@ I have focused my studies on FrontEnd Development and Programming Logic.
 ## Follow me 👇🏼
 [LinkedIn](https://www.linkedin.com/in/ruan-cortez-159b96188/)
 [GitHub](www.github.com/ruancortez)
+
 <!--
 **ruancortez/ruancortez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
